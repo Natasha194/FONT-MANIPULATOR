@@ -1,0 +1,18 @@
+div {
+    background-color: rgb(189, 0, 0);
+    color: black;
+    box-shadow: 4px 6px 12px black;
+    margin-top: -20px;
+    width: 99%;
+    float: left;
+}
+
+canvas {
+    border:  black 2px dashed;
+    box-shadow: black;
+
+}
+p {
+    float: right;
+    margin-bottom: -370px;
+}
